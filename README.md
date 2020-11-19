@@ -1,4 +1,4 @@
-[![Continuos Deployment](https://github.com/kitamstudios/python-starter/workflows/Continuos%20Deployment/badge.svg)](https://github.com/kitamstudios/python-starter/actions?query=workflow%3A%22Continuous+Integration%22)
+[![Continuous Integration](https://github.com/kitamstudios/python-starter/workflows/Continuous%20Integration/badge.svg?branch=master)](https://github.com/kitamstudios/python-starter/actions?query=workflow%3A%22Continuous+Integration%22)
 
 # Kitam Studios - Template for Python Applications
 
