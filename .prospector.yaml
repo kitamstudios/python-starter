@@ -1,0 +1,7 @@
+inherits:
+  - strictness_veryhigh.yaml
+
+test-warnings: true
+
+doc-warnings: false
+

@@ -1,0 +1,6 @@
+black
+prospector
+jedi
+pytest
+parameterized
+rope
