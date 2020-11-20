@@ -12,17 +12,18 @@ pip install -r requirements.txt
 ## Available out of the box
 
 - Core
-  - [x] editorconfig, prospector, black
+  - [x] editorconfig, black, prospector
   - [x] Unit tests: pytest
-  - [ ] pre-commit integration
 - VSCode
-  - [x] pytest
   - [x] editorconfig, prospector, black
-  - [x] configure settings
-  - [x] recommended extensions
+  - [x] Unit test: auto run, run, debug
+  - [x] Settings
+  - [x] Recommended extensions
   - [x] F5 debugging from VSCode
 - CI/CD
-  - [x] lint, black, unit test github workflow
+  - [x] GitHub workflow: black, prospector, unit tests
+- TODO
+  - [ ] pre-commit integration
 
 ## Useful documents
 

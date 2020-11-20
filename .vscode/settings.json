@@ -2,7 +2,7 @@
   "editor.tabSize": 2,
   "editor.insertSpaces": true,
   "editor.renderWhitespace": "boundary",
-  "editor.rulers": [140],
+  "editor.rulers": [120],
   "editor.formatOnSave": false,
   "files.encoding": "utf8",
   "files.trimTrailingWhitespace": true,
@@ -12,7 +12,7 @@
   "python.languageServer": "Pylance",
   "python.jediEnabled": false,
   "python.formatting.provider": "black",
-  "python.formatting.blackArgs": ["--line-length", "120", "--single-quotes"],
+  "python.formatting.blackArgs": ["--line-length", "120"],
   "python.linting.enabled": true,
   "python.linting.prospectorEnabled": true,
   "python.linting.lintOnSave": true,
@@ -25,5 +25,9 @@
     "."
   ],
 
+  "cSpell.words": [
+    "pylint",
+    "pytest",
+  ],
   "search.exclude": {},
 }
